@@ -1,0 +1,10 @@
+{
+    "upbit": {
+        "access_key": "",
+        "secret_key": ""
+    },
+    "bithumb": {
+        "access_key": "",
+        "secret_key": ""
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "upbit": {
+        "access_key": "",
+        "secret_key": ""
+    },
+    "bithumb": {
+        "access_key": "",
+        "secret_key": ""
+    },
+    "telegram": {
+        "bot_token": "",
+        "chat_id": ""
+    }
+}
